@@ -18,6 +18,18 @@ body {
   padding-right: 15px;
 }
 
+.column {
+  float:left;
+  width: 32%;
+  min-height: 20em;
+  border: 1px solid white;
+  margin: 0 0.5em 0.5em 0;
+
+  &.last {
+    margin-right: 0;
+  }
+}
+
 h1 {
   font-size: 39px;
 }
