@@ -32,6 +32,10 @@ body {
 
 h1 {
   font-size: 39px;
+
+  &.greeting {
+    border-bottom: 3px solid #fff;
+  }
 }
 
 h2 {
