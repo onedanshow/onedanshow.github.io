@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<presentation file="Template2.swf">
+	<chapter slideName="welcome" title="Welcome to Introduction to Computing" />
+	<chapter slideName="oit" title="The Office of Information Technology" />
+	<chapter slideName="resources" title="OIT Provides You with Many Resources" />
+	<chapter slideName="username" title="Managing Your AU User Name and Password" />
+	<chapter slideName="tigermail" title="TigerMail" />
+	<chapter slideName="oasis" title="OASIS" />
+	<chapter slideName="ebill" title="E-Bill" />
+	<chapter slideName="webct" title="WebCT" />
+	<chapter slideName="network" title="Free Software and Your Network Space" />
+	<chapter slideName="policies" title="OIT Policies" />
+	<chapter slideName="help" title="Finding Help with Technology is Easy" />
+	<chapter slideName="quiz" title="Test Your Knowledge" />
+</presentation>
+
