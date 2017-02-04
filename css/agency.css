@@ -675,7 +675,7 @@ ul.social-buttons li a:active {
   box-shadow: none;
   border: none;
   min-height: 100%;
-  padding: 100px 0;
+  padding: 50px 0;
   text-align: center;
 }
 .portfolio-modal .modal-content h2 {
@@ -703,15 +703,15 @@ ul.social-buttons li a:active {
   width: 75px;
   height: 75px;
   background-color: transparent;
-  top: 25px;
-  right: 25px;
+  top: 20px;
+  right: 20px;
   cursor: pointer;
 }
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
 }
 .portfolio-modal .close-modal .lr {
-  height: 75px;
+  height: 50px;
   width: 1px;
   margin-left: 35px;
   background-color: #222222;
@@ -723,7 +723,7 @@ ul.social-buttons li a:active {
   z-index: 1051;
 }
 .portfolio-modal .close-modal .lr .rl {
-  height: 75px;
+  height: 50px;
   width: 1px;
   background-color: #222222;
   transform: rotate(90deg);
